@@ -1,1 +1,1 @@
-# image-segmentation-spw
+# img-seg-spw
